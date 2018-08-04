@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SoundController
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 507861fb1b09fe646b8084ff13f5d133,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Name
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: audioSE
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: audioBGM
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SEList.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SEList.Array.data[0]
+    value: 
+    objectReference: {fileID: 8300000, guid: 7acbf5a511734fb4f9dc5054daa0ad39, type: 3}
+  - target: {fileID: 0}
+    propertyPath: SEList.Array.data[1]
+    value: 
+    objectReference: {fileID: 8300000, guid: 78e5e790520d8574ab1df534061aa9ab, type: 3}
+  - target: {fileID: 0}
+    propertyPath: SEList.Array.data[2]
+    value: 
+    objectReference: {fileID: 8300000, guid: 67d041f32222d8248a9323f667a92829, type: 3}
+  - target: {fileID: 0}
+    propertyPath: SEList.Array.data[3]
+    value: 
+    objectReference: {fileID: 8300000, guid: f564ef2c95b6dcf4681cb84b7383df50, type: 3}
+  - target: {fileID: 0}
+    propertyPath: BGMList.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BGMList.Array.data[0]
+    value: 
+    objectReference: {fileID: 8300000, guid: 453ea0e067760b34d857cc1be3f4090e, type: 3}
+  - target: {fileID: 0}
+    propertyPath: BGMList.Array.data[1]
+    value: 
+    objectReference: {fileID: 8300000, guid: a42ec84c997013d4bbbe1e793ef7aedd, type: 3}
